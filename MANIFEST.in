@@ -1,0 +1,8 @@
+graft calysto
+
+include LICENCE
+include README.md
+
+recursive-include calysto *
+
+global-exclude *.py[cod] __pycache__ *.so *.dylib *.prof
