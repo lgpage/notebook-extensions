@@ -1,0 +1,15 @@
+.coverage
+.DS_Store
+.coverage
+
+*.log
+*.egg-info
+*.pyc
+*.xunit.xml
+
+.eggs/
+build/
+dist/
+
+__pycache__
+\.ipynb_checkpoints
